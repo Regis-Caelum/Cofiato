@@ -1,0 +1,15 @@
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\bin\Debug\net6.0\CofiatoLeetCode.exe
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\bin\Debug\net6.0\CofiatoLeetCode.deps.json
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\bin\Debug\net6.0\CofiatoLeetCode.runtimeconfig.json
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\bin\Debug\net6.0\CofiatoLeetCode.dll
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\bin\Debug\net6.0\CofiatoLeetCode.pdb
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\CofiatoLeetCode.csproj.AssemblyReference.cache
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\CofiatoLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\CofiatoLeetCode.AssemblyInfoInputs.cache
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\CofiatoLeetCode.AssemblyInfo.cs
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\CofiatoLeetCode.csproj.CoreCompileInputs.cache
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\CofiatoLeetCode.dll
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\refint\CofiatoLeetCode.dll
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\CofiatoLeetCode.pdb
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\CofiatoLeetCode.genruntimeconfig.cache
+C:\Users\Inshal\OneDrive\Desktop\OpenSource\Projects\Cofiato\Cofiato\CofiatoLeetCode\obj\Debug\net6.0\ref\CofiatoLeetCode.dll
